@@ -21,6 +21,8 @@ def bonus
   }
 
   #code your solution here:
+  people = %w[Romeo Juliet]
+  
 
   
 
